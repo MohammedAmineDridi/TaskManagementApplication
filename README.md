@@ -1,6 +1,6 @@
 # 📝 👨🏻‍💻 Task Management Application
 
-Welcome to the **Modern Weather App**, a sleek and futuristic application that not only provides real-time weather data but also integrates an intelligent AI-powered chatbot for enhanced user interaction. This app is built with modern design principles and innovative features to offer a seamless and interactive user experience.
+Welcome to the **Task Management Application**, designed to create dynamic and shareable tasks and boards. The app allows users to organize tasks into customizable boards, where they can easily add, edit, and manage tasks. Features include user-friendly task creation, board management, and the ability to share boards with others for collaborative work. This project showcases advanced functionality such as dynamic task assignment, task status tracking, and an intuitive interface that enhances team collaboration and personal productivity.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
